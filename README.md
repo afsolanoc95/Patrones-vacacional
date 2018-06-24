@@ -14,3 +14,7 @@
 + ![](https://raw.githubusercontent.com/Dwan13/Patrones-vacacional/master/diagrama%20de%20paquetes.jpg)
 + + ### Diagrama de Estados
 + ![](https://raw.githubusercontent.com/Dwan13/Patrones-vacacional/master/Modelo%20de%20estados.jpg)
+## **Ejercicio de modelo organizacional**
++ ![](https://github.com/afsolanoc95/Patrones-vacacional/blob/master/modelo%20organizacional.jpg)
+## **Ejercicio de modelo de actor cooperacion**
++ ![](https://raw.githubusercontent.com/Dwan13/Patrones-vacacional/master/Modelo%20de%20estados.jpg)

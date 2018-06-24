@@ -1,4 +1,4 @@
-#**Anderson fabian solano 20142020089**
+# **Anderson fabian solano 20142020089**
 **Dwan felipe veloza 20142020098**
 **charles hurtado 20142020142**
 +\#\#\# Diagrama de Secuencia + +\#\#\#\# Secuencia Porfesor

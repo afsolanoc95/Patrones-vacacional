@@ -1,6 +1,7 @@
+# **PATRONES**
 # **Anderson fabian solano 20142020089**
-**Dwan felipe veloza 20142020098**
-**charles hurtado 20142020142**
+# **Dwan felipe veloza 20142020098**
+# **charles hurtado 20142020142**
 +\#\#\# Diagrama de Secuencia + +\#\#\#\# Secuencia Porfesor
 +![](https://raw.githubusercontent.com/Dwan13/Patrones-vacacional/master/Modelo%20de%20secuencia%20profesor.jpg)
 + +\#\#\#\# Secuencia Estudiante

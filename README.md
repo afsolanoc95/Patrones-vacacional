@@ -4,7 +4,7 @@
 # **charles hurtado 20142020142**
 + ### Diagrama de Secuencia 
 + + #### Secuencia Porfesor
-+![](https://raw.githubusercontent.com/Dwan13/Patrones-vacacional/master/Modelo%20de%20secuencia%20profesor.jpg)
++ ![](https://raw.githubusercontent.com/Dwan13/Patrones-vacacional/master/Modelo%20de%20secuencia%20profesor.jpg)
 + +\#\#\#\# Secuencia Estudiante
 +![](https://raw.githubusercontent.com/Dwan13/Patrones-vacacional/master/Modelo%20de%20secuencia%20estudiante.jpg)
 + +\#\#\# Diagrama de Componentes

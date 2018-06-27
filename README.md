@@ -20,3 +20,7 @@
 + ![](https://github.com/afsolanoc95/Patrones-vacacional/blob/master/modelo%20organizacional.jpg)
 ## **Ejercicio de modelo de actor cooperacion**
 + ![](https://scontent.fclo1-2.fna.fbcdn.net/v/t1.0-9/36052210_1706232162829137_8419728177680613376_n.jpg?_nc_cat=0&_nc_eui2=AeGcLy-N4NJTXboSYbS2mpb8RF7cb1L67Iu9OTGolHoErYf2fi1agoB0ZKP0G_dyYTK5rZiDRkqBv4q3II2Aub-xEbxl0Ry5xrDdqbz2ookm1Q&oh=0c581a9886647b36d2965c0fa0ab5eae&oe=5BB2409C)
+## **Ejercicio de modelo funciones de negocio**
++ ![](https://raw.githubusercontent.com/afsolanoc95/Patrones-vacacional/master/funciones%20de%20negocio.jpg)
+## **Ejercicio de modelo procesos de negocio**
++ ![](https://raw.githubusercontent.com/afsolanoc95/Patrones-vacacional/master/proceso%20de%20negocio.jpg)
